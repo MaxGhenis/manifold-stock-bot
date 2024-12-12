@@ -5,6 +5,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/manifold-stock-bot/',
   build: {
-    outDir: 'dist'
+    outDir: 'dist',
   }
 })
